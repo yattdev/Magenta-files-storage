@@ -1,2 +1,2 @@
 # Magenta-files-storage
-A public repository to store Django project Magenta media files, Using django-github-s3 0.25
+A public repository to store Django project Magenta media files, Using [our version of django-github-s3](https://github.com/yattdev/django-storage-using-github)
